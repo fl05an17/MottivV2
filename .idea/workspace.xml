@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a516e35-91a5-44df-8227-5e0a15a2e9dc" name="Default Changelist" comment="" />
+    <list default="true" id="3a516e35-91a5-44df-8227-5e0a15a2e9dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MottivV2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MottivV2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MottivV2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MottivV2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MottivV2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MottivV2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiPersonas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiPersonas/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZoxddSFz8YLLy4ieZqSa44m1d1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +35,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="MottivV2" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="MottivV2" />
+      </console-settings>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,9 +61,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585519995150">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585541433249">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.740@0.28.1366.740" timestamp="1585541433249" />
+    <state x="421" y="176" width="515" height="445" key="EnvironmentVariablesDialog" timestamp="1585542085146">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="421" y="176" width="515" height="445" key="EnvironmentVariablesDialog/0.28.1366.740@0.28.1366.740" timestamp="1585542085146" />
+    <state x="430" y="142" width="495" height="514" key="FileChooserDialogImpl" timestamp="1585541566962">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="430" y="142" width="495" height="514" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1585541566962" />
+    <state x="173" y="33" width="1021" height="731" key="SettingsEditor" timestamp="1585629322304">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="173" y="33" width="1021" height="731" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1585629322304" />
+    <state x="376" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1585629284856">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585519995150" />
+    <state x="376" y="202" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1585629284856" />
+    <state x="451" y="318" width="464" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585636239286">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="451" y="318" width="464" height="161" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1366.740@0.28.1366.740" timestamp="1585636239286" />
   </component>
 </project>
