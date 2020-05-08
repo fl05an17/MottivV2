@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3a516e35-91a5-44df-8227-5e0a15a2e9dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MottivV2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MottivV2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiProductos/migrations/0002_auto_20200507_0628.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MottivV2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MottivV2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiCategorias/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiListaProductos/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiProductos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiProductos/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiProductos/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiProductos/serializers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +90,17 @@
       <updated>1585519336832</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
